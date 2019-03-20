@@ -31,7 +31,7 @@ Collect open vulnerabilities and sort them out！😄
 ## 内网渗透
 ## 域渗透
 
-## pentesting
+## pentesting
 
 ## Webshell免杀
 - [php大马检测绕过研究 - 先知社区](https://xz.aliyun.com/t/4380)
