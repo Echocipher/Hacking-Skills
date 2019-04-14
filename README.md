@@ -1,10 +1,9 @@
 
-# Hacking-Skills
+# Hacking-Skills☘☘☘
 
+This project collects public vulnerabilities and articles😄😄😄
 
-Collect open vulnerabilities and sort them out！😄
-
-
+☘☘☘
 ## Sqli
 - [pdo调用方法以及防sql注入原理](https://blog.csdn.net/dengjiexian123/article/details/53863038)
 - [PDO场景下的SQL注入探究](https://xz.aliyun.com/t/3950)
